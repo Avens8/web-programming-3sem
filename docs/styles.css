@@ -1,0 +1,23 @@
+body {
+     background-image: url(http://gta-trinity.ru/forum/uploads/profile/photo-93332.jpg?_r=1504638702)
+}
+
+header {
+     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     text-align: center;
+     font-size: 40pt;
+     color: white;
+}
+
+.about {
+     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     text-align:  left;
+     font-size: 20pt;
+     color: white;
+}
+
+.experience {
+     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     font-size: 20pt;
+     color: white;
+}
