@@ -1,5 +1,7 @@
 body {
-     background-image: url(http://nerdreactor.com/wp-content/uploads/2016/10/saohr.jpg)
+     background-image: url(https://i.ytimg.com/vi/PA3Hq4Y7AgE/maxresdefault.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
 }
 
 
@@ -34,5 +36,5 @@ header {
      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
      text-align:  left;
      font-size: 20pt;
-     color: white;
+     color: #0033cc;
 }
