@@ -27,3 +27,11 @@ header {
      font-size: 30pt;
      color: white;
 }
+
+
+#root {
+     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     text-align:  left;
+     font-size: 20pt;
+     color: white;
+}
