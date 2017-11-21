@@ -6,8 +6,8 @@ function addText (txt) {
 }
 
 $(function () {
-    $('#root').append('<input id="input_add_task"><button id="add_task">Добавить</button>');
     $('#root').append('<ul></ul>');
+    $('#root').append('<input id="input_add_task"><button id="add_task">Добавить</button>');
     $('#add_task').click(function() {addText($('#input_add_task').val())});
     addText('Сделать задание #3 по web-программированию');
 })
