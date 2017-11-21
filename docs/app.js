@@ -10,4 +10,4 @@ $(function () {
     $('root').append('<ul></ul>');
     $('add_task').click(function() {addText($('input_add_task').val())});
     addText('Сделать задание #3 по web-программированию');
-}
+})
