@@ -1,6 +1,9 @@
 body {
-     background-image: url(https://i.ytimg.com/vi/PA3Hq4Y7AgE/maxresdefault.jpg);
-     background-size: cover;
+     /*background-image: url(http://gta-trinity.ru/forum/uploads/profile/photo-93332.jpg?_r=1504638702);*/
+     /*background-image: url(https://i.ytimg.com/vi/PA3Hq4Y7AgE/maxresdefault.jpg);*/
+     background-image: url(https://psv4.userapi.com/c834504/u84133479/docs/d15/827659e5d2ce/PUkJzdjGplY3333.jpg?extra=uiIQczUTQb2k0yYdAal2UKAQgf-ryGq97nLe01_LTbiepgxsh8TTcvHyZM6nUhrC0dpUzOHfFGCaaErsJxy5r1_znEXGIoH9ZnpzKO7IjWArFYx6KGDd1qChX7FNx0n-l8_mhnrWLa8);
+     height: cover;
+     background-color: black;
      background-repeat: no-repeat;
 }
 
@@ -15,13 +18,13 @@ header {
 .about {
      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
      text-align:  left;
-     font-size: 20pt;
+     font-size: 16pt;
      color: white;
 }
 
 .experience {
      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-     font-size: 20pt;
+     font-size: 16pt;
      color: white;
 }
 
@@ -29,12 +32,4 @@ header {
      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
      font-size: 30pt;
      color: white;
-}
-
-
-#root {
-     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-     text-align:  left;
-     font-size: 20pt;
-     color: #0033cc;
 }

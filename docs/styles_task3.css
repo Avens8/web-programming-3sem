@@ -1,0 +1,38 @@
+body {
+     /*background-image: url(https://i.ytimg.com/vi/PA3Hq4Y7AgE/maxresdefault.jpg);*/
+     background-image: url(http://gta-trinity.ru/forum/uploads/profile/photo-93332.jpg?_r=1504638702);
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+
+
+header {
+     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     text-align: center;
+     font-size: 40pt;
+     color: white;
+}
+
+.button {
+    border: none;
+    size: 300%;
+    padding: 2px 8px;
+}
+
+
+#root {
+     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     text-align:  left;
+     font-size: 20pt;
+     color: white;
+}
+
+.input_button {
+    background-color: yellow;
+    width: auto;
+    height: 40px;
+    -webkit-border-radius: 4px;
+    -khtml-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
