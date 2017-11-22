@@ -24,7 +24,7 @@ header {
 #root {
      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
      text-align:  left;
-     font-size: 20pt;
+     font-size: 22pt;
      color: white;
 }
 
@@ -56,6 +56,13 @@ header {
     -khtml-border-radius: 6px;
     -moz-border-radius: 6px;
     border-radius: 6px;
+}
+
+#add_task_input {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background: transparent;
+    color: white;
+    font-size: 18pt;
 }
 
 ul li {

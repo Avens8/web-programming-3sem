@@ -13,7 +13,7 @@ $(document).ready(function () {
     $('#add_task').click(function() {
         addText($('#add_task_input').val());
         $(this).parent().find('#add_task_input').val('');
-});
+    });
     $('#add_task_input').keypress(function (e) {
         if (e.which == 13) {
             e.preventDefault();
@@ -21,5 +21,10 @@ $(document).ready(function () {
             $(this).val('');
         }
     })
+    $(document).on('keypress', function(e) {
+    var tag = e.target.tagName.toLowerCase();
+    if ( e.which === 8 && tag != 'input')
+        $('#root ul li:last').remove();
+    });
     addText('Сделать задание #3 по web-программированию');
 })
