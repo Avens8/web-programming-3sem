@@ -1,5 +1,6 @@
 body {
      /*background-image: url(https://i.ytimg.com/vi/PA3Hq4Y7AgE/maxresdefault.jpg);*/
+     background: transparent;
      background-image: url(http://gta-trinity.ru/forum/uploads/profile/photo-93332.jpg?_r=1504638702);
      background-size: cover;
      background-repeat: no-repeat;
@@ -30,9 +31,12 @@ header {
 .input_button {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 12pt;
-    background-color: ivory;
-    width: auto;
-    height: auto;
+    background: url(https://img1.etsystatic.com/164/0/14078774/il_fullxfull.1158241487_pbcw.jpg) no-repeat center;
+    background-size: 100%;
+    color: transparent;
+    width: 60pt;
+    height: 60pt;
+    margin-left: 5pt;
     -webkit-border-radius: 6px;
     -khtml-border-radius: 6px;
     -moz-border-radius: 6px;
@@ -42,9 +46,12 @@ header {
 .button_rm {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 12pt;
-    background-color: ivory;
-    width: auto;
-    height: auto;
+    color: transparent;
+    background: url(http://abali.ru/wp-content/uploads/2014/01/logo_stone_island.png) no-repeat center;
+    background-size: 100%;
+    margin-left: 5pt;
+    width: 60pt;
+    height: 60pt;
     -webkit-border-radius: 6px;
     -khtml-border-radius: 6px;
     -moz-border-radius: 6px;
