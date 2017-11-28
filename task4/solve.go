@@ -5,9 +5,9 @@ import (
 )
 
 func RemoveEven(arr []int) []int {
-	answer := make([]int, 0, 1e6)
-	for i, val := range arr {
-		if (i % 2) != 0 {
+	answer := make([]int, 0, 1)
+	for _, val := range arr {
+		if (val % 2) != 0 {
 			answer = append(answer, val)
 		}
 	}
